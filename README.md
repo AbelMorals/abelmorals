@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Abel Morales</h1>
 <h3 align="center">Im a student from Instituto Tecnologico de la Laguna</h3>
-
+<p align="center">
+  <img src="61b1710cd1f39d8a2134c7a817b84797.gif" alt="GIF de presentación" width="400"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fabelmocar@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Abel Morales Carrera" height="30" width="40" /></a>
